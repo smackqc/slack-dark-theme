@@ -1,6 +1,6 @@
 # slack-dark-theme
 
-Slack Dark Them
+Slack Dark Theme
 
 ---
 
